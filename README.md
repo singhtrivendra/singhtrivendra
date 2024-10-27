@@ -16,7 +16,7 @@
 ⚡ Check my ✨ [Github](https://github.com/singhtrivendra) <br>
 📫 How to reach me: [Mail me](trivendrasingh0711@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/trivendra-singh-919bb6255/)<br>
 
-[![An image of @shivanshplays's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/@singhtrivendra)](https://www.holopin.io/@singhtrivendra)
+[![An image of @shivanshplays's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/@singhtrivendra#badges)](https://www.holopin.io/@singhtrivendra)
 https://www.holopin.io/@singhtrivendra#badges
 
 <br/>
@@ -62,11 +62,7 @@ https://www.holopin.io/@singhtrivendra#badges
 
 <!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
 
-<p align="center">
-   <a>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshplays&theme=radical" alt="shivanshplays" /></p>
-   </a>
-</p>
+
 
 <hr>
 
