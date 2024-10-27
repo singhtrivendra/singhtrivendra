@@ -30,11 +30,14 @@
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
-      <img src="![image](https://github.com/user-attachments/assets/8701b7a2-2818-4b3b-a2d5-b87abc485826)
-" alt="icon" width="55" height="55" />
+      <img src="https://github.com/user-attachments/assets/8701b7a2-2818-4b3b-a2d5-b87abc485826" alt="icon" width="55" height="55" />
       <br>flutter
     </td>
-
+    <td align="center" width="90">
+      <img src="https://github.com/user-attachments/assets/754bcbe6-ddd2-4c32-bc13-c27fc958f3ad" alt="icon" 
+      width="55" height="55" />
+      <br>Firebse
+    </td>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
       <br>MongoDB
@@ -42,11 +45,7 @@
 
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="![image](https://github.com/user-attachments/assets/754bcbe6-ddd2-4c32-bc13-c27fc958f3ad)" alt="icon" 
-      width="55" height="55" />
-      <br>Firebse
-    </td>
+
 
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
