@@ -38,10 +38,7 @@
       width="55" height="55" />
       <br>Firebse
     </td>
-  <td align="center" width="90">
-      <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm2knfpya01010cmn85v72kn1" alt="icon" width="55" height="55" />
-      <br>MongoDB
-    </td>
+
 
   </tr>
   <tr>
