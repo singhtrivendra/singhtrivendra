@@ -16,6 +16,54 @@
 ⚡ Check my ✨ [Github](https://github.com/singhtrivendra) <br>
 📫 How to reach me: [Mail me](trivendrasingh0711@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/trivendra-singh-919bb6255/)<br>
 
+## :zap: Open Source Programs & Achievements
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/user-attachments/assets/2ed11656-9988-4e41-a8d7-7cbbf0fe7690" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code</strong>
+        </a>
+        <br>
+<!--         <span style="font-size: 14px; color: #555555;">🏅 Ranked 17th</span> -->
+<!--         <br> -->
+        <span style="font-size: 12px; color: #777777;">
+<!-- 	  Out of 17,000+ participants<br> -->
+          PRs Merged: 8<br>
+          Total Badges: 3<br>
+          Total Score: 160<br>
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/user-attachments/assets/827949c8-057b-4a62-a0bc-7a2486a428b5" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/user-attachments/assets/95549c19-fe3a-4e88-b125-184a30bb8242" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+              <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/user-attachments/assets/08b2c321-3e85-4da7-8e3d-73a51924b1cd" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>API Student Expert Postman</strong>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 [![An image of @Trivendra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singhtrivendra)](https://holopin.io/@singhtrivendra#badges)
 
 <br/>
