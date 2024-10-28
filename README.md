@@ -29,6 +29,10 @@
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
+     <td align="center" width="90">
+      <img src="https://github.com/user-attachments/assets/a41275cf-9d4a-49ab-be19-e01487651d3b" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
     <td align="center" width="90">
       <img src="https://github.com/user-attachments/assets/8701b7a2-2818-4b3b-a2d5-b87abc485826" alt="icon" width="55" height="55" />
       <br>flutter
@@ -48,12 +52,18 @@
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
       <br>Git
     </td>
+     <td align="center" width="90">
+      <img src="https://github.com/user-attachments/assets/8fe695bd-b2b2-4200-a351-0b35319ba592" alt="icon" width="55" height="55" />
+      <br>GitHub
+    </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
+      <img src="https://github.com/user-attachments/assets/97cfff16-de66-4abc-896a-928392c2a7af" alt="icon" width="55" height="55" />
+      <br>Android
     </td>
   </tr>
 </table>
+![image]()
+
 
 <!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
 
