@@ -1,20 +1,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/trivendra-singh-919bb6255/">Trivendra</a><img height="40" alt="Trivendra" src="https://github.com/singhtrivendra/main/giphy.gif"/> </h1>
-
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/trivendra-singh-919bb6255/">Trivendra</a> 
+<img height="40" alt="Trivendra" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> 
+</h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://www.linkedin.com/in/trivendra-singh-919bb6255/">LinkedIn</a> - 
   <a href="https://x.com/SinghTrivendra7">Twitter</a> -
-  <a href="https://leetcode.com/u/Trivendra_singh"/>Leetcode</a> -
-  <a href="trivendrasingh0711@gmail.com">Contact me</a> 
+  <a href="https://leetcode.com/u/Trivendra_singh/">Leetcode</a> -
+  <a href="mailto:trivendrasingh0711@gmail.com">Contact me</a> 
 </p> 
 
 -----------------------------------------------------------
-✨ Fontend App Developer |  Intern [@Yathaavat](http://yathaavat.com/) <br>
+✨ Frontend App Developer | Intern [@Yathaavat](http://yathaavat.com/) <br>
 ⚡ Check my ✨ [Github](https://github.com/singhtrivendra) <br>
-📫 How to reach me: [Mail me](trivendrasingh0711@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/trivendra-singh-919bb6255/)<br>
+📫 How to reach me: [Mail me](mailto:trivendrasingh0711@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/trivendra-singh-919bb6255/)<br>
 
 ## :zap: Open Source Programs & Achievements
 
@@ -28,10 +29,7 @@
           <strong>GirlScript Summer of Code</strong>
         </a>
         <br>
-<!--         <span style="font-size: 14px; color: #555555;">🏅 Ranked 17th</span> -->
-<!--         <br> -->
         <span style="font-size: 12px; color: #777777;">
-<!-- 	  Out of 17,000+ participants<br> -->
           PRs Merged: 8<br>
           Total Badges: 3<br>
           Total Score: 160<br>
@@ -50,8 +48,8 @@
               <br>
               <strong>Adventurer Badge</strong>
             </td>
-              <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/user-attachments/assets/08b2c321-3e85-4da7-8e3d-73a51924b1cd" alt="Adventurer Badge" width="80" />
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/user-attachments/assets/08b2c321-3e85-4da7-8e3d-73a51924b1cd" alt="API Student Expert Postman" width="80" />
               <br>
               <strong>API Student Expert Postman</strong>
             </td>
@@ -64,58 +62,41 @@
 
 <br>
 
-[![An image of @Trivendra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singhtrivendra)](https://holopin.io/@singhtrivendra#badges)
+[![Holopin Badges](https://holopin.me/singhtrivendra)](https://holopin.io/@singhtrivendra#badges)
 
 <br/>
 
-<!------------------------------------------------------------------------------- Tools Section ------------------------------------------------------------------------------------------------ -->
-
-</tr>
-</table>
- 
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology</h1>
 
 <table align="center" class="table table-dark">
-  <tr bg-dark>
-     <td align="center" width="90">
-      <img src="https://github.com/user-attachments/assets/a41275cf-9d4a-49ab-be19-e01487651d3b" alt="icon" width="55" height="55" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/user-attachments/assets/8701b7a2-2818-4b3b-a2d5-b87abc485826" alt="icon" width="55" height="55" />
-      <br>flutter
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/user-attachments/assets/754bcbe6-ddd2-4c32-bc13-c27fc958f3ad" alt="icon" 
-      width="55" height="55" />
-      <br>Firebse
-    </td>
-
-
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
   </tr>
   <tr>
-
-
-  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
-    </td>
-     <td align="center" width="90">
-      <img src="https://github.com/user-attachments/assets/8fe695bd-b2b2-4200-a351-0b35319ba592" alt="icon" width="55" height="55" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/user-attachments/assets/97cfff16-de66-4abc-896a-928392c2a7af" alt="icon" width="55" height="55" />
-      <br>Android
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/67b01531-1d69-477e-8d0d-3dfeacc7612d" width="55"/><br>WebSocket</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>SQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>Postgres</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="55"/><br>Prisma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>Flutter</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br>Android</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma</td>
   </tr>
 </table>
-
-
-
-<!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
-
-
 
 <hr>
 
