@@ -96,11 +96,7 @@
 
 ---
 
-## 💡 **Latest Projects**
-🔹 **[Yathaavat](http://yathaavat.com/)** - Intern, worked on frontend & API integration.  
-🔹 **[DonorConnect](https://github.com/GirlScript-Summer-of-Code/DonorConnect)** - Open-source project for blood & organ donation.  
 
----
 
 ## 🎉 **Holopin Badges**
 [![Holopin Badges](https://holopin.me/singhtrivendra)](https://holopin.io/@singhtrivendra#badges)
