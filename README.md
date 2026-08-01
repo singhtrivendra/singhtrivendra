@@ -16,6 +16,9 @@
   <a href="https://leetcode.com/u/Trivendra_singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  <a href="https://trivendrasingh.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="mailto:trivendrasingh0711@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -23,9 +26,59 @@
 
 ---
 
-### 🚀 **Frontend Developer | Intern at [Yathaavat](http://yathaavat.com/)**
-- 💻 **Check my GitHub**: [GitHub Profile](https://github.com/singhtrivendra)
-- 📧 **Reach out**: [Mail Me](mailto:trivendrasingh0711@gmail.com) | [LinkedIn](https://www.linkedin.com/in/trivendra-singh-919bb6255/)
+### **AI-Integrated Full-Stack Developer** · React · Node.js · TypeScript · PostgreSQL · GenAI
+
+I ship production web apps end-to-end — and wire in LLM / RAG features (Gemini, Pinecone vector search). I've shipped a company website revamp, a PostgreSQL admin panel, an internal CRM, and a generative-AI semantic-search platform across two companies since my 3rd year.
+
+- **Currently:** Building AI-integrated full-stack products at Yathaavat Solutions Pvt. Ltd.
+- **What I do:** Full-stack (MERN + TypeScript) · REST APIs · LLM/RAG integration
+- **Learning:** System design, scalable backends, applied GenAI
+- **Reach out:** [Mail](mailto:trivendrasingh0711@gmail.com) · [LinkedIn](https://www.linkedin.com/in/trivendra-singh-919bb6255/) · [Portfolio](https://trivendrasingh.tech)
+
+---
+
+## **Featured Projects**
+
+| Project | Stack | Live |
+|---|---|---|
+| **Conscious-AI** — GenAI + vector-search platform (semantic capture & search across Twitter/YouTube/Docs) | Node.js, Express, React, MongoDB, Pinecone, Gemini | [Demo](https://consciousapp-client.vercel.app/) |
+| **Sign-Sense** — real-time ASL recognition, 95% accuracy, live webcam inference | Python, OpenCV, MediaPipe, scikit-learn | [Demo](https://sign-sense-india-ai-95.vercel.app/) |
+| **Yathaavat Platform** — website revamp + PostgreSQL admin panel + internal CRM with email automation | Node.js, Express, TypeScript, React, PostgreSQL | [Live](https://yathaavat.com/) |
+| **Portfolio** — personal site | TypeScript, React | [Live](https://trivendrasingh.tech) |
+
+> 📌 **Pinned repos above reflect my full-stack & AI work. Earlier Dart/C++ app repos are freelance/learning projects.**
+
+---
+
+## 🛠️ **Tools & Technologies**
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>Postgres</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55"/><br>AWS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma</td>
+  </tr>
+</table>
 
 ---
 
@@ -56,50 +109,11 @@
 
 ---
 
-## 🛠️ **Tools & Technologies**
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>Postgres</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>Firebase</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>Flutter</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="55"/><br>Dart</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br>Android Studio</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma</td>
-  </tr>
-</table>
-
----
-
 ## 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singhtrivendra&show_icons=true&theme=radical&count_private=true" width="49%"/>
   <img src="https://streak-stats.demolab.com?user=singhtrivendra&theme=radical&hide_border=true" width="49%"/>
 </div>
-
----
-
-
-
-## 🎉 **Holopin Badges**
-[![Holopin Badges](https://holopin.me/singhtrivendra)](https://holopin.io/@singhtrivendra#badges)
 
 ---
 
