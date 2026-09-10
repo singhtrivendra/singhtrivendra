@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/u/Trivendra_singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://trivendrasingh.tech" target="_blank">
+  <a href="https://portfolio-gamma-eight-99.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:trivendrasingh0711@gmail.com">
