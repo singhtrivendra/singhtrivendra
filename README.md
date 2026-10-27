@@ -114,8 +114,8 @@ I ship production web apps end-to-end — and wire in LLM / RAG features (Gemini
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=singhtrivendra&show_icons=true&theme=radical&hide=contribs&show=contributions"
-    alt="GitHub contribution statistics"
+    src="https://github-stats-extended.vercel.app/api?username=singhtrivendra&show_icons=true&theme=radical&show=contributions"
+    alt="GitHub overall statistics"
     width="49%"
   />
   <img
@@ -124,6 +124,10 @@ I ship production web apps end-to-end — and wire in LLM / RAG features (Gemini
     width="49%"
   />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions%20in%20the%20last%20year-805-brightgreen?style=for-the-badge&logo=github" alt="805 contributions in the last year"/>
+</p>
 
 
 ---
