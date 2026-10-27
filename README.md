@@ -110,7 +110,7 @@ I ship production web apps end-to-end — and wire in LLM / RAG features (Gemini
 ---
 
 
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 <div align="center">
   <img
@@ -124,6 +124,20 @@ I ship production web apps end-to-end — and wire in LLM / RAG features (Gemini
     width="49%"
   />
 </div>
+
+
+### Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/singhtrivendra">
+    <img
+      src="https://ghchart.rshah.org/409ba5/singhtrivendra"
+      alt="Trivendra's GitHub contribution calendar"
+      width="100%"
+    />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions%20in%20the%20last%20year-805-brightgreen?style=for-the-badge&logo=github" alt="805 contributions in the last year"/>
