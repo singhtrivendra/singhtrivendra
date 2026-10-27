@@ -111,8 +111,16 @@ I ship production web apps end-to-end — and wire in LLM / RAG features (Gemini
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhtrivendra&show_icons=true&theme=radical&count_private=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=singhtrivendra&theme=radical&hide_border=true" width="49%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=singhtrivendra&show_icons=true&theme=radical&count_private=true"
+    alt="GitHub repository statistics"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=singhtrivendra&theme=radical&hide_border=true&hide_total_contributions=true"
+    alt="GitHub contribution streak"
+    width="49%"
+  />
 </div>
 
 ---
